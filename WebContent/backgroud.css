@@ -1,0 +1,78 @@
+#em-container {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+
+#em-content {
+	width: 100%;
+	height: 90%;
+	float: left;
+	padding-left : 100px;
+	padding-right : 100px;
+}
+
+#em-part-content {
+	width: 100%;
+	height: 90%;
+	float: left;
+	padding-left : 100px;
+	padding-right : 100px;
+}
+
+#em-add-content {
+	width: 100%;
+	height: 90%;
+	float: left;
+	padding-left : 100px;
+	padding-right : 100px;
+}
+
+#em-sidebar-right {
+	width: 160px;
+	padding: 20px;
+	margin-bottom: 20px;
+	float: right;
+}
+
+#em-inside-left {
+	width: 45%;
+	height: 100%;
+	float: left;
+}
+
+#em-inside-right {
+	width: 45%;
+	height: 100%;
+	float: right;
+}
+
+#em-inner-header {
+	display: block;
+	height: 10%;
+	margin: 0 auto;
+}
+
+#em-inner-body {
+	height: 90%;
+	padding-left : 100px;
+	padding-right : 100px;
+}
+
+
+#em-button {
+	padding-top : 100px;
+	float: right;
+}
+
+#em-list-top {
+	width: 100%;
+	height: 45%;
+	float: top;
+}
+
+#em-list-bottom {
+	width: 100%;
+	height: 45%;
+	float: bottom;
+}
